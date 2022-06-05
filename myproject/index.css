@@ -29,6 +29,15 @@ select {
  color: #1e1e1e;
 }
 
+button {
+ margin: 1rem 0;
+ padding: 1rem;
+ border: none;
+ border-radius: 10px;
+ background-color: lightgray;
+ color: #1e1e1e;
+}
+
 option {
  border: none;
  border-radius: 10px;
